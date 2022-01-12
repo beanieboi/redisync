@@ -1,4 +1,4 @@
-module github.com/ryandotsmith/redisync
+module github.com/beanieboi/redisync
 
 go 1.17
 
